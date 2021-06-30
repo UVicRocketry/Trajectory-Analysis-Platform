@@ -2,6 +2,8 @@
 
 Inspired by RASAero, OpenRocket, AeroLab, and ASTOS, this application will conduct the majority of Flight Dynamics' calculations and present the analysis in a concise and easy to use format.
 
+### Documenttion:
+https://docs.google.com/document/d/1s26W-V7qxuR7OZudK54kjP2qYPD_28Zsq7yGy6HUGAg/edit#heading=h.87y9xku8iggp
 
 ### Features:
  - Provide maximum altitude for input variables
