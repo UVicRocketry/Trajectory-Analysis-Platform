@@ -1,4 +1,4 @@
-# UVR-Flight-Dynamics-Platform
+# UVR-Flight-Dynamics-Platform (FP - project acronym)
 
 Inspired by RASAero, OpenRocket, AeroLab, and ASTOS, this application will conduct the majority of Flight Dynamics' calculations and present the analysis in a concise and easy to use format.
 
